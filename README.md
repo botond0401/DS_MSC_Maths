@@ -40,7 +40,7 @@ Feel free to explore each folder for specific exercises and assignments.
 
 ## Additional Information
 
-This course, taught by Professor Martin Ehler during the winter semester of 2023.📚
+This course, taught by Professor Martin Ehler during the winter semester of 2023. 📚
 
 If you have any questions or feedback, please don't hesitate to reach out!
 
