@@ -18,11 +18,11 @@ Welcome to the repository for the Mathematics of Data Science course, which I at
 
 The `LectureNotes` folder contains comprehensive notes from each lecture.
 
-- [Lecture Notes PDF](LectureNotes/Math_of_Data_Science_Lecture_Notes.pdf)
+- [Lecture Notes PDF](LectureNotes.pdf)
 
 ## Homework Assignments
 
-The `HW1`, `HW2` folders contain homework assignments for the respective weeks.
+The `HW1`, `HW2` folders contain homework assignments.
 
 ### HW1
 
