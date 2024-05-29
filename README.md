@@ -1,6 +1,6 @@
 # Mathematics of Data Science Course
 
-Welcome to the repository for the Mathematics of Data Science course, which I attended during the winter semester of 2023 at the University of Vienna with Professor Martin Ehler! 😊 This repository contains materials related to the lectures and exercises for the course. We covered various topics including:
+Welcome to the repository for the Mathematics of Data Science course, which I attended at the University of Vienna! 😊 This repository contains materials related to the lectures and exercises for the course. We covered various topics including:
 
 - Machine numbers
 - Data compression
@@ -40,7 +40,7 @@ Feel free to explore each folder for specific exercises and assignments.
 
 ## Additional Information
 
-This course, taught by Professor Martin Ehler during the winter semester of 2023. 📚
+This course was taken in the 2023 winter semester, and the instructor was Prof. Martin Ehler. 📚
 
 If you have any questions or feedback, please don't hesitate to reach out!
 
